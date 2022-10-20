@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 /**
- * lowercase - prints the lowercase
- * alphabet depending on input
+ * lowercase - prints the lowercase alphabet
  *
  * @letter: first letter of the alphabet
  *
@@ -22,8 +21,7 @@ int lowercase(char letter)
 }
 
 /**
- * uppercase - prints the lowercase
- * alphabet depending on input
+ * uppercase - prints the uppercase alphabet
  *
  * @letter: first letter of the alphabet
  *
@@ -43,7 +41,8 @@ int uppercase(char letter)
 }
 
 /**
- * main - calls the recursive alphabet function
+ * main - calls the recursive alphabet
+ * function depending on input
  *
  * Return: 0
  */
