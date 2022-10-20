@@ -50,7 +50,7 @@ int main(void)
 {
 	char letter;
 	
-	printf("Uppercase / Lowercase? (u / l): ");
+	printf("Enter (u / l) for Uppercase / Lowercase alphabet: ");
 	scanf("%c", &letter);
 
 	if (letter == 'u' || letter == 'U')
